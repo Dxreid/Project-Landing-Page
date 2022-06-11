@@ -131,3 +131,56 @@ ul {
     justify-content: center;
     align-content: center;
 }
+
+.section3 {
+    display: flex;
+    justify-content: center;
+    padding: 100px 20% 100px 20%;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+    flex: 1;
+    flex-direction: column;
+}
+
+.section3quote {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    padding: 0px;
+    font-style: italic;
+    color: #1f2937; 
+    margin: 0px;
+}
+
+.quotename {
+    display: flex;
+    justify-content: end;
+    font-size: 24px;
+    font-weight: bold;
+    padding-right: 150px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.section4 {
+    display: flex;
+    background-color: white;
+    padding: 100px 10% 100px 10%;
+}
+
+.calltoaction {
+    display: flex;
+    background-color: #3882f6;
+    border-radius: 100px;
+}
+
+.footer {
+    display: flex; 
+    align-content: center;
+    justify-content: center;
+    margin-top: auto;
+    background-color: #1f2937;
+    font-size: 18px;
+    color:#E5E7EB;
+}
